@@ -42,6 +42,7 @@ This project provides interactive insights into vehicle loan data through two da
 - Microsoft Excel 
 - Power Query
 - DAX
+
 [Summary Dashboard](screenshots/summary-dashboard.png)
 
 [Overview Dashboard](screenshots/overview-dashboard.png)
