@@ -43,9 +43,15 @@ This project provides interactive insights into vehicle loan data through two da
 - Power Query
 - DAX
 
-[Summary Dashboard](screenshots/summary-dashboard.png)
+## Dashboard Screenshots
 
-[Overview Dashboard](screenshots/overview-dashboard.png)
+### Summary Dashboard
+
+![Summary Dashboard](./summary.png)
+
+### Overview Dashboard
+
+![Overview Dashboard](./overview.png)
 
 ## Author 
 Sameer Kumar
